@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ### :calendar: I’m currently working on my ***portfolio***, stay tuned!
-### :construction: I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
+### :pencil2: I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
 ### :rocket: I’m currently learning more Backend/DB such as **Node.js** and **MSSQL**.
 
 <!--
