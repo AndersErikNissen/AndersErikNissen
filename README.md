@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfolio, stay tuned!
 - :construction: I'm also working on learning about **SVG** and animating them! ***Help is always appreciated!***
-- :rocket: I’m currently learning more Backend/DB such as **Node.js** and MSSQL**.
+- :rocket: I’m currently learning more Backend/DB such as **Node.js** and **MSSQL**.
 
 <!--
 **AndersErikNissen/AndersErikNissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
