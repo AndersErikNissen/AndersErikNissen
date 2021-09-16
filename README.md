@@ -4,7 +4,8 @@
 ### :pencil2: I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
 ### :rocket: I’m currently learning more Backend/DB such as **Node.js** and **MSSQL**.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AndersErikNissen)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersErikNissen&theme=radical_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
