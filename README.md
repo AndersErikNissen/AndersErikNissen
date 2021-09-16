@@ -4,6 +4,8 @@
 ### :pencil2: I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
 ### :rocket: I’m currently learning more Backend/DB such as **Node.js** and **MSSQL**.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=AndersErikNissen)
+
 <!--
 **AndersErikNissen/AndersErikNissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
