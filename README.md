@@ -1,8 +1,9 @@
-# Hello! 👋
+# Mojn!
 
-### :calendar: I’m currently working on my third version of my ***portfolio***, stay tuned!
-### :pencil2: I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
-### :rocket: I’m currently learning more about Vue.js and SCSS.
+### - I just got done with working on my third version of my ***portfolio***!
+### - I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
+### - I’m currently learning about PHP / Symfony / Twig, in order to begin working with Shopware at my apprenticeship.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersErikNissen&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersErikNissen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
