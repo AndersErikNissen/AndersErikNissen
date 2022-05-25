@@ -1,8 +1,7 @@
 # Mojn!
 
-### - I just got done with working on my third version of my ***portfolio***!
-### - I'm also working on learning about **SVG** and animating them! *Help is always appreciated!*     
-### - I’m currently learning about PHP / Symfony / Twig, in order to begin working with Shopware at my apprenticeship.
+### - I'm working on learning about **SVG** and animating them! *Help is always appreciated!*     
+### - I’m currently learning about more about PHP / WordPress Custom Themes / Regex.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersErikNissen&show_icons=true&theme=radical)
